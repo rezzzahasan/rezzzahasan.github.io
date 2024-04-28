@@ -348,6 +348,10 @@ a {
     font-size: 14px;
     gap: 8px;
   }
+  .hello-world {
+    font-size: 14px;
+    font-weight: 600;
+  }
   .waving-hand {
     max-width: 24px;
   }
